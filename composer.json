@@ -59,5 +59,7 @@
         "squizlabs/php_codesniffer": "*"
     },
 
+    "license": "MIT",
+
     "bin": "./executavel.php"
 }
