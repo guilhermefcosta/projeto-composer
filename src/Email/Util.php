@@ -3,7 +3,7 @@
 namespace Ferreira\CursoComposer\Email;
 
 
-class Teste
+class Util
 {
     public $id = 0;
     public $name = "random name";
