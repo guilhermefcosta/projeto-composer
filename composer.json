@@ -35,6 +35,7 @@
         ]
     },
 
+
     "scripts-descriptions": {
         "check": "Roda os testes unitários, correção dos padroẽs PSR12 e correções a serem feitas pelo padrão"
     },
@@ -48,6 +49,7 @@
     ],
     
     "require": {
+        "php" : ">=7.4",
         "guzzlehttp/guzzle": "^7.4",
         "symfony/dom-crawler": "5.4.0",
         "symfony/css-selector": "5.4.0"
