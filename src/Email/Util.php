@@ -2,9 +2,8 @@
 
 namespace Ferreira\CursoComposer\Email;
 
-use PHP_CodeSniffer\Tokenizers\PHP;
 
-class Mat
+class Teste
 {
     public $id = 0;
     public $name = "random name";
